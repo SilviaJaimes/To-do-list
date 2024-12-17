@@ -32,10 +32,6 @@ Ejecución:
     python -m streamlit run task_manager.py
 ```
 
-## Muestras del proyecto
-
+## Muestras del proyecto 📽️
 
 https://github.com/user-attachments/assets/6be5728e-e464-4474-a06a-36af21007e55
-
-
-
