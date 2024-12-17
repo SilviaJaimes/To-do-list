@@ -34,5 +34,8 @@ Ejecución:
 
 ## Muestras del proyecto
 
-https://github.com/user-attachments/assets/8a69a419-cf28-4595-912f-4fa75a53b740
+
+https://github.com/user-attachments/assets/6be5728e-e464-4474-a06a-36af21007e55
+
+
 
