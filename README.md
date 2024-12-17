@@ -1,6 +1,6 @@
-#Gestión de tareas 📄
+# Gestión de tareas 📄
   
-##Ejecución del proyecto 🔩
+## Ejecución del proyecto 🔩
 
 Para iniciar con el proyecto se deben instalar las siguientes dependencias:
     pip install streamlit
