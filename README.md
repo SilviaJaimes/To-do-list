@@ -10,9 +10,9 @@ Aplicación que permite a los usuarios gestionar sus tareas diarias.
   Muestra todas las tareas agregadas con su estado (pendiente o completada).
 ### Marcar tareas como completadas: 
   Permite al usuario marcar una tarea como completada.
-### Eliminar Tareas: 
+### Eliminar tareas: 
   Permite al usuario eliminar tareas completadas.
-### Guardar y Cargar Tareas: 
+### Guardar y cargar tareas: 
   Puede exportar las tareas en un archivo e importar las desde el mismo archivo.
 
 ## Creación de la base de datos 📊
