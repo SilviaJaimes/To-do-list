@@ -1,4 +1,19 @@
 # Gestión de tareas 📝
+  
+Aplicación que permite a los usuarios gestionar sus tareas diarias.
+
+## Funcionalidades de la aplicación ⚙️
+
+#### Agregar tareas: 
+    Permite al usuario agregar nuevas tareas con un título y una descripción.
+#### Listar tareas: 
+    Muestra todas las tareas agregadas con su estado (pendiente o completada).
+#### Marcar tareas como completadas: 
+    Permite al usuario marcar una tarea como completada.
+#### Eliminar Tareas: 
+    Permite al usuario eliminar tareas completadas.
+#### Guardar y Cargar Tareas: 
+    Puede exportar las tareas en un archivo e importar las desde el mismo archivo.
 
 ## Creación de la base de datos 📊
 
