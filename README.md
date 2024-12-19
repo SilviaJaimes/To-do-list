@@ -15,6 +15,11 @@ Aplicación que permite a los usuarios gestionar sus tareas diarias.
 ### Guardar y cargar tareas: 
   Puede exportar las tareas en un archivo e importar las desde el mismo archivo.
 
+## Herramientas utilizadas 🛠️ 
+    Streamlit
+    MySQL
+    Sin Sonar
+
 ## Creación de la base de datos 📊
 
 Crear la base de datos en MySQL con los siguientes comandos:
